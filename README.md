@@ -36,6 +36,9 @@ Fullstack-разработчик
 <a href="https://netology.ru/programs/fullstack-python-dev#/lessons">(программа курса)
 - Инженер по тестированию. Нетология 
 <a href="https://netology.ru/programs/qa-middle#/lessons">(программа курса)
+  
+Ознакомиться с моими работами Вы можете перейдя по
+<a href="https://github.com/RavenRVS/title_main">ссылке
 
 ---
   
