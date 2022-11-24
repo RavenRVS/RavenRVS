@@ -39,6 +39,8 @@ Fullstack-разработчик
   
 Ознакомиться с моими работами Вы можете перейдя по
 <a href="https://github.com/RavenRVS/title_main">ссылке
+  
+<a href="https://disk.yandex.ru/i/xQ7w3BSEVxqsyw">Здесь</a> вы можете ознакомиться с моим резюме.
 
 ---
   
